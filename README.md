@@ -57,12 +57,3 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 
 
 
-
-## TRANSFORMINGDATA WITH THE HELP OF POWER QUERY EDITOR
-1) Performing Filtration in Market Table 
-Here, we need to filter the rows where the values are null and are inappropriate.
-![1](https://user-images.githubusercontent.com/121208667/209349895-9bf7dd9a-b2d0-4a22-9e85-f2d781822b85.jpg)
-
-This is the later output we get after filtration.
-![1](https://user-images.githubusercontent.com/121208667/209350033-48e1bd71-ff4b-4f6e-87c2-9214249c8629.jpg)
-

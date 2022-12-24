@@ -13,7 +13,7 @@ The Data set contains five tables namely - Customers, Date, Markets, Products an
 4. Prducts table contains 279 rows and 2 columns
 5. Transactions table contains 148,395 rows and 7 columns
 
-## Data Modelling
+## DATA MODELLING
 
 ![Data Modelling](https://user-images.githubusercontent.com/121208667/209424522-0bf07f68-3031-4fba-80f5-8db980e0a286.jpg)
 

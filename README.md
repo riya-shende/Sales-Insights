@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-AtliQ Hardware is a company in India which supplies computer hardware and peripheral devices across India. The have many stores across India such as Surge Stores, Nomad Stores, Excel Stores, Electricalsara Stores etc. The head office of the company is situated in Delhi, India. There are many regional offices across India
+AtliQ Hardware is a company in India which supplies computer hardware and peripheral devices across India. The have many stores across India such as Surge Stores, Nomad Stores, Excel Stores, Electricalsara Stores etc. The head office of the company is situated in Delhi, India. There are many regional offices across India.
 Our task is to analyse the sales data and identify weak areas and opportunities for AtliQ Company to boost their business growth.
 
 ## DATA SET
